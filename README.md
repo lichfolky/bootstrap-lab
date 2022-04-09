@@ -9,3 +9,5 @@
 Some experiments to test the features of bootstrap 5.1
 
 [The steps to reproduce](./NOTES.md) what I did.
+
+check the results at [https://lichfolky.github.io/bootstrap-lab/](https://lichfolky.github.io/bootstrap-lab/)
